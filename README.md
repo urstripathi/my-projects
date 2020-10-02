@@ -1,4 +1,4 @@
 # Tetaris
-first repository
+About the Game
 
 Tetris: This game is made with pygame. 
